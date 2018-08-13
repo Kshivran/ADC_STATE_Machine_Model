@@ -1,2 +1,2 @@
-# ADC_STATE_Machine_Model
-ADC state machine model for Arduino UNO
+# LDR_STATE_Machine_Model
+LDR state machine model for Arduino UNO
